@@ -19,7 +19,7 @@ SE38
 ## Step 2
 
 Enter a program name.
-![Creating First Program](https://i.imgur.com/5YXkVqE.png) 
+![Creating First Program](https://i.imgur.com/xTskRqa.png) 
 Example:
 
 ```
